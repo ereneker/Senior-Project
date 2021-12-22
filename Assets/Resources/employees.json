@@ -1,0 +1,122 @@
+{
+	"employees":
+	[
+	{
+		"fullName": "Catherine Spears",
+		"gender": "Female",
+		"salary": 4213,
+		"skills": [
+		{
+			"programming": 2,
+			"cybersecurity": 1,
+			"salesmarketing": 3,
+			"RnD": 5
+		}
+		]
+		},
+	{
+		"fullName": "Abe Nigel",
+		"gender": "Female",
+		"salary": 4215,
+		"skills": [
+		{
+			"programming": 2,
+			"cybersecurity": 4,
+			"salesmarketing": 1,
+			"RnD": 2
+		}
+		]
+		},
+	{
+		"fullName": "Aubrey Holmwood",
+		"gender": "Female",
+		"salary": 4124,
+		"skills": [
+		{
+			"programming": 2,
+			"cybersecurity": 4,
+			"salesmarketing": 1,
+			"RnD": 3
+		}
+		]
+		},
+	{
+		"fullName": "Kenith Derrick",
+		"gender": "Male",
+		"salary": 4213,
+		"skills": [
+		{
+			"programming": 3,
+			"cybersecurity": 2,
+			"salesmarketing": 4,
+			"RnD": 2
+		}
+		]
+		},
+	{
+		"fullName": "Lesia Smedley",
+		"gender": "Female",
+		"salary": 4215,
+		"skills": [
+		{
+			"programming": 4,
+			"cybersecurity": 2,
+			"salesmarketing": 3,
+			"RnD": 1
+		}
+		]
+		},
+	{
+		"fullName": "Danna London",
+		"gender": "Male",
+		"salary": 4123,
+		"skills": [
+		{
+			"programming": 4,
+			"cybersecurity": 2,
+			"salesmarketing": 3,
+			"RnD": 1
+		}
+		]
+		},
+	{
+		"fullName": "Coby Wyman",
+		"gender": "Male",
+		"salary": 3214,
+		"skills": [
+		{
+			"programming": 2,
+			"cybersecurity": 4,
+			"salesmarketing": 3,
+			"RnD":4
+		}
+		]
+		},
+	{
+		"fullName": "Stewart Field",
+		"gender": "Male",
+		"salary": 4124,
+		"skills": [
+		{
+			"programming": 3,
+			"cybersecurity": 2,
+			"salesmarketing": 2,
+			"RnD": 4
+		}
+		]
+		},
+	{
+		"fullName": "Brett Clarkson",
+		"gender": "Male",
+		"salary": 4125,
+		"skills": [
+		{
+			"programming": 1,
+			"cybersecurity": 1,
+			"salesmarketing": 5,
+			"RnD": 2
+		}
+		]
+	}
+	]
+}

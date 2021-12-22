@@ -1,0 +1,101 @@
+{
+	"tasks":
+	[
+	{
+		"taskName": "1. Analysis and Planning",
+		"plannedCost": 14213,
+		"requiredSkill": [
+		{
+			"programming": 2,
+			"database": 1,
+			"salesmarketing": 3,
+			"RnD": 5
+		}
+		]
+	},
+	{
+		"taskName": "2. Requirements",
+		"plannedCost": 321421,
+		"requiredSkill": [
+		{
+			"programming": 2,
+			"database": 1,
+			"salesmarketing": 3,
+			"RnD": 5
+		}
+		]
+	},
+	{
+		"taskName": "3. Design and Prototyping",
+		"plannedCost": 321412,
+		"requiredSkill": [
+		{
+			"programming": 2,
+			"database": 1,
+			"salesmarketing": 3,
+			"RnD": 5
+		}
+		]
+	},
+	{
+		"taskName": "4. Software Development",
+		"plannedCost": 321312,
+		"requiredSkill": [
+		{
+			"programming": 2,
+			"database": 1,
+			"salesmarketing": 3,
+			"RnD": 5
+		}
+		]
+	},
+	{
+		"taskName": "5. Testing",
+		"plannedCost": 321421,
+		"requiredSkill": [
+		{
+			"programming": 2,
+			"database": 1,
+			"salesmarketing": 3,
+			"RnD": 5
+		}
+		]
+	},
+	{
+		"taskName": "6.Development",
+		"plannedCost": 31241,
+		"requiredSkill": [
+		{
+			"programming": 2,
+			"database": 1,
+			"salesmarketing": 3,
+			"RnD": 5
+		}
+		]
+	},
+	{
+		"taskName": "7. Maintenance and Updates",
+		"plannedCost": 312451,
+		"requiredSkill": [
+		{
+			"programming": 2,
+			"database": 1,
+			"salesmarketing": 3,
+			"RnD": 5
+		}
+		]
+	},
+	{
+		"taskName": "8. PR marketing and Release",
+		"plannedCost": 42145,
+		"requiredSkill": [
+		{
+			"programming": 2,
+			"database": 1,
+			"salesmarketing": 3,
+			"RnD": 5
+		}
+		]
+	}
+]
+}
